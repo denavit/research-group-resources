@@ -4,7 +4,7 @@ This guide is intended to help experimentalists perform tensile testing on steel
 
 The contents of this guide include:
 * [Instructions for specimen preparation](specimen-preperation.md)
-  * Drawings of samples 
+  * [Drawings of samples](sample-drawings)
 * [Instructions for testing](testing-procedure.md)
   * [Example lab data recording sheet](data-sheet.xlsx)
 * [Instructions for data analysis](data-analysis.md)
