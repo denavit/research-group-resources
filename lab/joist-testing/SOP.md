@@ -1,9 +1,9 @@
 # Steel Joist Load Testing
 
 ## Quick Reference
-
-|Exclusion zone|Loading: stay 6 in. from the specimen. Crane operation: stay 2 ft. from the load.|
+|Topic|Notes|
 |-|-|
+|Exclusion zone|Loading: stay 6 in. from the specimen. Crane operation: stay 2 ft. from the load.|
 |PPE, always|Safety glasses for everyone in the high bay during a test. Add gloves and safety shoes for rigging/setup work.|
 |Crane operator|Shop personnel only, no exceptions.|
 |Loading rate|\~0.1 in/min unless the work plan specifies otherwise.|
